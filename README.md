@@ -30,6 +30,7 @@ npm run dev
 
 ### Folder Structure
 
+'''
 gallery-app/
 └── gallery-app/
     ├── client/
@@ -61,7 +62,8 @@ gallery-app/
     │   ├── package.json
     │   └── server.js
     ├── .gitignore
-    └── README.md       
+    └── README.md  
+    '''
 
 ## API
  Method  Endpoint         Description                                  
