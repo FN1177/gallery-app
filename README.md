@@ -30,7 +30,7 @@ npm run dev
 
 ### Folder Structure
 
-'''
+```
 gallery-app/
 └── gallery-app/
     ├── client/
@@ -63,11 +63,11 @@ gallery-app/
     │   └── server.js
     ├── .gitignore
     └── README.md  
-    '''
+    ```
 
 ## API
- Method  Endpoint         Description                                  
+ ```Method  Endpoint         Description                                  
 
  POST    /api/images      Upload an image file, save it, store its URL 
  GET     /api/images      Get all images        
- DELETE  /api/images/:id  Delete one image                             
+ DELETE  /api/images/:id  Delete one image     ```                        
