@@ -66,8 +66,7 @@ gallery-app/
     ```
 
 ## API
-```
-Method  Endpoint         Description                                  
+```Method  Endpoint         Description                                  
  POST    /api/images      Upload an image file, save it, store its URL 
  GET     /api/images      Get all images        
  DELETE  /api/images/:id  Delete one image   
